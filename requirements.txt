@@ -1,7 +1,6 @@
+langchain==0.3.25
+langchain_community==0.3.24
+pinecone==7.0.2
+python-dotenv==1.1.0
+streamlit==1.45.1
 streamlit
-langchain==0.1.13
-pinecone-client==3.2.0
-openai==1.14.2
-tiktoken==0.5.2
-nest-asyncio==1.5.8
-sentence-transformers==2.5.1
