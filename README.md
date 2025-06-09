@@ -3,10 +3,6 @@
 **A smart Streamlit web application that uses Sitemap URLs to fetch website data, generate vector embeddings, and enable intelligent querying using LangChain and Pinecone.**
 
 ---
-
-## 🚀 Live App
-> `[https://your-ai-site-assistant.onrender.com](https://support-chat-bot-your-website.onrender.com)`
-
 ---
 
 ## 📌 Table of Contents
