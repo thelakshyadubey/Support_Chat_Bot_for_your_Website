@@ -3,7 +3,6 @@
 **A smart Streamlit web application that uses Sitemap URLs to fetch website data, generate vector embeddings, and enable intelligent querying using LangChain and Pinecone.**
 
 ---
----
 
 ## 📌 Table of Contents
 
